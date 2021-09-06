@@ -1,0 +1,14 @@
+{
+  "name": "stream-flow-async",
+  "version": "1.0.0",
+  "description": "wrapper to asyncly process chunks of a stream",
+  "author": "Martin Rafael Gonzalez <tin@devtin.io>",
+  "main": "stream-flow-async.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.1.0"
+  },
+  "license": "MIT"
+}

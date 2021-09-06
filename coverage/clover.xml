@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1630943924029" clover="3.2.0">
+  <project timestamp="1630943924029" name="All files">
+    <metrics statements="21" coveredstatements="21" conditionals="9" coveredconditionals="9" methods="8" coveredmethods="8" elements="38" coveredelements="38" complexity="0" loc="21" ncloc="21" packages="1" files="1" classes="1"/>
+    <file name="stream-flow-async.js" path="/Users/tin/projects/stream-flow-async/stream-flow-async.js">
+      <metrics statements="21" coveredstatements="21" conditionals="9" coveredconditionals="9" methods="8" coveredmethods="8"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="6" count="3" type="stmt"/>
+      <line num="8" count="3" type="stmt"/>
+      <line num="9" count="11" type="cond" truecount="4" falsecount="0"/>
+      <line num="10" count="6" type="stmt"/>
+      <line num="14" count="3" type="stmt"/>
+      <line num="15" count="10" type="cond" truecount="4" falsecount="0"/>
+      <line num="16" count="5" type="stmt"/>
+      <line num="20" count="3" type="stmt"/>
+      <line num="21" count="3" type="stmt"/>
+      <line num="22" count="11" type="stmt"/>
+      <line num="24" count="11" type="stmt"/>
+      <line num="26" count="10" type="stmt"/>
+      <line num="27" count="10" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+      <line num="31" count="1" type="stmt"/>
+      <line num="35" count="3" type="stmt"/>
+      <line num="36" count="11" type="stmt"/>
+      <line num="37" count="11" type="stmt"/>
+      <line num="40" count="3" type="stmt"/>
+      <line num="44" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
